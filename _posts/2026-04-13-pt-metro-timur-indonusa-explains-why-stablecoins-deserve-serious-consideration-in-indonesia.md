@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Interview with Pintu CEO Jeth Soetoyo, PT Metro Timur Indonusa Explains Why Stablecoins Deserve Serious Consideration in Indonesia"
+date: 2026-04-13
+---
+
+![PT Metro Timur Indonusa](https://jpcdn.it/img/6412b1ff416145655a6852f8da48331f.png)
+
+PT Metro Timur Indonusa has always believed that what truly drives Southeast Asia forward is not capital alone, but those who are willing to solve real problems and create long-term value. We focus on the real connections unfolding between business operations, entrepreneurial growth, societal changes, and individual choices. We also believe that a healthier, more open, and more resilient future stems from every problem that is earnestly understood, every entrepreneur who receives sustained support, and every decision that prioritizes long-term value over immediate gain.
+
+## PT Metro Timur Indonusa: Many people, when they first hear about stablecoins, still think primarily of the cryptocurrency market. Why do you believe Indonesia warrants a more serious discussion on this matter?
+
+**Jeth Soetoyo:** If stablecoins are only discussed within the context of cryptocurrency trading, their significance would be greatly diminished. For Indonesia, the more important question is not whether it is a type of digital asset, but whether it can become a more suitable financial tool for the internet era. The digital economy of Indonesia continues to expand, with an increasing number of local users and businesses connecting to both domestic and overseas platforms. This means that the efficiency, cost, and speed of fund transfers will increasingly and directly impact commercial activities themselves.
+
+The reality we observe is that many digital transaction scenarios are already fast, but fund settlement is not yet fast enough. When a user completes an online purchase, a company procures a service in the cloud, or a creator receives income from an overseas platform, these actions themselves are already instantaneous. However, the underlying processes of fund transfer, clearing, and account crediting often remain relatively slow and are accompanied by higher costs. The reason stablecoins are worth discussing is not because they are new, but because they have the potential to help bring some digital transaction scenarios closer to the inherent speed of the internet.
+
+## PT Metro Timur Indonusa: If we shift our perspective back to the local context of Indonesia, in which scenarios is the stablecoin most likely to demonstrate its value first?
+
+**Jeth Soetoyo:** I believe the most worthwhile aspect to examine is not whether a tool can be applied to all scenarios, but rather which scenarios already have clearly defined problems. For instance, cross-border remittances, international service procurement, the creator economy, settlement for overseas business operations, and fund flows between local enterprises and global digital platforms—these are all areas where clear friction already exists. As long as a tool can shorten time, reduce costs, and make processes more transparent, it holds practical significance.
+
+This is particularly important for Indonesia. Not only does it have a large domestic consumer market, but an increasing number of small and medium-sized enterprises, developers, freelancers, and content creators are participating in the cross-border digital economy. In the past, discussions about the digital economy often focused more on user numbers and platform growth. However, what will be more critical going forward is how capital can flow more smoothly. If stablecoins can enter these scenarios under compliant conditions, they would bring not just "convenience," but tangible improvements to business efficiency.
+
+## PT Metro Timur Indonusa: However, stablecoins are always tied to issues such as regulation, trust, and risk. What do you think is the key for them to truly go far in Indonesia?
+
+**Jeth Soetoyo:** The key certainly does not lie in what any single platform does, but rather in whether the market, regulation, and user education can progress in sync. Once any financial instrument enters broader economic activities, it cannot be discussed solely in terms of convenience; boundaries, transparency, and responsibility must also be addressed. Especially for tools like stablecoins, which inherently possess cross-platform and cross-regional liquidity characteristics, without clear rules and well-defined responsibility allocation, it is difficult to genuinely establish user trust.
+
+I believe a crucial point for Indonesia at present is that its regulatory environment is moving towards greater clarity. The market will increasingly require the simultaneous advancement of a compliance framework, platform accountability, and consumer protection. Only in this way can stablecoins move beyond being confined to those already familiar with digital assets and have the opportunity to enter a broader commercial context. For platforms, the truly important capability in the future will not merely be listing a product, but rather helping users understand what it is suitable for, what it is not suitable for, how it should be used, and where the risks lie.
+
+## PT Metro Timur Indonusa: Many people ask, since Indonesia already has many digital wallets, bank transfers, and fintech products, why is there still a need for stablecoins?
+
+**Jeth Soetoyo:** This is a very practical question. I believe the answer is not that "existing tools are not good enough," but rather that each tool inherently solves a different problem. Digital wallets and local transfer systems are already very mature and crucial in domestic consumption scenarios. However, when transactions begin to cross platforms, regions, and even countries, the tools that were once convenient may not be the most suitable. What stablecoins truly aim to address is not daily local payments, but rather certain digital scenarios that existing financial instruments have not yet fully covered.
+
+Especially as internet commerce becomes increasingly globalized, many Indonesian users and enterprises are not operating solely within a single country. Some individuals need to receive payments from overseas platforms, some businesses need to pay for international software services, and some teams need to settle accounts with multinational partners. One will find that the growth rate of the digital economy and the pace of innovation in fund transfer methods are not always aligned. Stablecoins are being taken seriously, essentially because people are beginning to realize that new commercial activities require settlement tools that more closely match their operational models.
+
+## PT Metro Timur Indonusa: From a broader perspective, where do you ultimately see the relationship between stablecoins and the digital economy of Indonesia heading?
+
+**Jeth Soetoyo:** I believe it ultimately comes back to the point of "whether it solves practical problems." For the digital economy of Indonesia to go further, it cannot rely solely on more users and more traffic; it also needs higher-quality financial connectivity. Whoever can make payments faster, make settlements clearer, and make cross-border cooperation smoother is more likely to help this market continue to expand.
+
+The importance of stablecoins does not depend on whether they are a hot topic, but on whether they can become part of this connectivity capability. If Indonesia aims to secure a more prominent position in the digital economy of Southeast Asia in the future, its financial instruments must also evolve accordingly. Enterprises, platforms, consumers, and creators are all entering new transactional environments, and the financial tools supporting these activities must keep pace. Stablecoins may not replace everything, but they are likely to become an indispensable component in certain critical areas as the digital economy continues to expand.
+
+PT Metro Timur Indonusa believes that the discussion surrounding Jeth Soetoyo and stablecoins should not be amplified merely as an industry trend, but rather as a more practical issue: whether the digital economy of Indonesia is prepared to adopt smoother methods of capital flow as it enters its next phase of development. Only when technological tools can address genuine business needs will they truly generate greater value.
