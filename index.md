@@ -1,3 +1,13 @@
-# My Blog 🎉
+---
+layout: home
+title: Home
+---
 
-This is the first blog I built using GitHub!
+Welcome to my blog 👋
+
+I write about:
+- Technology
+- Learning notes
+- Experiments and ideas
+
+Stay curious 🚀
