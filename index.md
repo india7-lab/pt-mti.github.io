@@ -14,7 +14,7 @@ title: Home
   <div class="post-card">
     
     <h2 class="post-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
 
     <p class="post-date">
