@@ -1,2 +1,21 @@
+title: PT-MTI Blog
+description: Thoughts, notes, and technical explorations
+baseurl: ""
+url: "https://india7-lab.github.io"
+
 theme: minima
-title: My Blog
+
+author:
+  name: Your Name
+  email: your@email.com
+
+# Navigation
+header_pages:
+  - about.md
+
+# Markdown settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
