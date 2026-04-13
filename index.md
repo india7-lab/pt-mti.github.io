@@ -3,25 +3,32 @@ layout: default
 title: Home
 ---
 
-# Welcome to my blog 👋
+<h1>🚀 Welcome to my blog</h1>
 
-I write about:
+<p>I write about technology, learning notes, experiments and ideas.</p>
 
-- Technology
-- Learning notes
-- Experiments and ideas
+<hr>
 
-Stay curious 🚀
-
----
-
-## 📚 Posts
-
-<ul>
+<div class="posts-grid">
   {% for post in site.posts %}
-    <li>
+  <div class="post-card">
+    
+    <h2 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
-      - {{ post.date | date: "%Y-%m-%d" }}
-    </li>
+    </h2>
+
+    <p class="post-date">
+      📅 {{ post.date | date: "%Y-%m-%d" }}
+    </p>
+
+    <p class="post-excerpt">
+      {{ post.excerpt | strip_html | truncate: 120 }}
+    </p>
+
+    <a class="read-more" href="{{ post.url }}">
+      Read More →
+    </a>
+
+  </div>
   {% endfor %}
-</ul>
+</div>
