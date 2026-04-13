@@ -12,5 +12,5 @@ This is my personal blog where I share:
 - Ideas and experiments
 
 ## Contact
-- GitHub: https://github.com/india7-lab
-- Email: your@email.com
+- GitHub: https://github.com/india7-lab](https://india7-lab.github.io/pt-mti.github.io
+- Email: india73927383837383883@gmail.com
