@@ -25,7 +25,7 @@ title: Home
       {{ post.excerpt | strip_html | truncate: 120 }}
     </p>
 
-    <a class="read-more" href="{{ site.baseurl }}">
+    <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
       Read More →
     </a>
 
