@@ -1,0 +1,210 @@
+# 🚀 Advanced Jekyll Blog Template (Professional Version)
+
+# =============================
+# 📦 Project Structure
+# =============================
+
+my-blog/
+├── _config.yml
+├── index.md
+├── about.md
+├── _posts/
+├── _layouts/
+│   ├── default.html
+│   ├── post.html
+├── assets/
+│   ├── style.css
+│   ├── dark.css
+├── _includes/
+│   ├── header.html
+│   ├── footer.html
+├── .github/workflows/deploy.yml
+
+# =============================
+# ⚙️ _config.yml
+# =============================
+
+title: PT-MTI Blog
+description: Thoughts, notes, and technical explorations
+baseurl: ""
+url: "https://india7-lab.github.io"
+
+theme: minima
+
+# Author
+author:
+  name: Your Name
+
+# Navigation
+header_pages:
+  - about.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+lang: en
+
+# =============================
+# 🧱 Layout: _layouts/default.html
+# =============================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="/assets/dark.css" id="dark-mode">
+</head>
+<body>
+  {% include header.html %}
+  <main>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+
+  <script>
+    const toggle = document.createElement('button');
+    toggle.innerText = '🌙 Dark Mode';
+    toggle.onclick = () => {
+      document.body.classList.toggle('dark');
+    };
+    document.body.prepend(toggle);
+  </script>
+</body>
+</html>
+
+# =============================
+# 📝 Layout: _layouts/post.html
+# =============================
+
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  <p><em>{{ page.date | date_to_string }}</em></p>
+  {{ content }}
+</article>
+
+<hr>
+
+<!-- Giscus Comments -->
+<script src="https://giscus.app/client.js"
+        data-repo="india7-lab/pt-mti.github.io"
+        data-repo-id="REPLACE_ME"
+        data-category="General"
+        data-category-id="REPLACE_ME"
+        data-mapping="pathname"
+        data-theme="light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+# =============================
+# 🎨 style.css
+# =============================
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #ffffff;
+  color: #222;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+# =============================
+# 🌙 dark.css
+# =============================
+
+body.dark {
+  background: #0d1117;
+  color: #c9d1d9;
+}
+
+body.dark a {
+  color: #58a6ff;
+}
+
+# =============================
+# 🔝 header.html
+# =============================
+
+<header>
+  <h2><a href="/">PT-MTI Blog</a></h2>
+  <hr>
+</header>
+
+# =============================
+# 🔻 footer.html
+# =============================
+
+<footer>
+  <hr>
+  <p>© 2026 PT-MTI</p>
+</footer>
+
+# =============================
+# 🤖 GitHub Actions
+# =============================
+
+name: Deploy Jekyll site
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+      - run: |
+          gem install bundler
+          bundle install || true
+      - run: bundle exec jekyll build
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+
+# =============================
+# ✅ Features Included
+# =============================
+
+✔ Dark mode toggle
+✔ SEO optimization
+✔ Clean UI
+✔ Blog layout
+✔ Auto deployment
+✔ Comment system (Giscus)
+
+# =============================
+# ⚠️ IMPORTANT (Giscus Setup)
+# =============================
+
+1. Go to https://giscus.app
+2. Select your repo
+3. Copy repo-id and category-id
+4. Replace in post.html
+
+# =============================
+# 🎉 DONE
+# =============================
+
+Push → Auto deploy → Live 🎉
