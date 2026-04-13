@@ -1,6 +1,6 @@
 title: PT-MTI Blog
 description: Thoughts, notes, and technical explorations
-baseurl: ""
+baseurl: "/pt-mti.github.io"
 url: "https://india7-lab.github.io"
 
 theme: minima
