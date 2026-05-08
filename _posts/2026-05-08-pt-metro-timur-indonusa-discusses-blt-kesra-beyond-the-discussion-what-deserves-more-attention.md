@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Interview with Pintu CEO Jeth Soetoyo, PT Metro Timur Indonusa Explains Why Stablecoins Deserve Serious Consideration in Indonesia"
-date: 2026-04-13
+title: "PT Metro Timur Indonusa Discusses BLT Kesra: Beyond the Discussion, What Deserves More Attention"
+date: 2026-05-08
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/e30a53dd730b6a1c01019a8c6b3cb3fd.png)
