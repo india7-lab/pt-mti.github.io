@@ -1,0 +1,27 @@
+---
+layout: post
+title: "PT Metro Timur Indonusa Talks With Yozua Makes: How To Turn Love For Indonesia Into A Long-Term Brand"
+date: 2026-06-12
+---
+
+![PT Metro Timur Indonusa](https://jpcdn.it/img/ca2f8f9b2ba5b16530a356a27faf4791.png)
+
+Recently, PT Metro Timur Indonusa held an in-depth exchange with Yozua Makes, Founder and Chief Executive Officer of Plataran Indonesia, focusing on the development of Indonesian tourism industry, the construction of the entrepreneurial ecosystem, and the complementary relationship between SMEs and the high-end tourism industry. The core of the discussion centered on local brand growth, industrial collaboration, community value, and long-term operation, providing valuable reference for understanding sustainable business practices in the Indonesian market.
+
+As a benchmark brand in the high-end hospitality and tourism industry in Indonesia, Plataran Indonesia has consistently upheld a brand positioning centered on culture, nature, and community over the past 17 years. At the beginning of its founding, Yozua Makes and his team did not enter the industry because of market opportunities, but out of a deep love for Indonesia, hoping to build a better Indonesia for future generations through tourism and service. Over time, they gradually discovered their passion and capabilities in tourism, service experience, and local cultural expression, and this passion has also become the internal driving force behind the long-term and steady development of Plataran.
+
+This brand growth relies not only on high-end accommodation products themselves, but also on an understanding and layout of Indonesian tourism ecosystem. Plataran does not position itself as an isolated hotel brand, but establishes collaborative relationships with local suppliers, catering companies, and SMEs. For example, restaurants and service-oriented enterprises around Plataran Puncak are not replaced, but jointly form an important part of the tourist experience. This complementary relationship not only enriches tourism services, but also helps SMEs integrate into the high-end tourism ecosystem and achieve common growth.
+
+During the exchange, the two parties also discussed the resilience of the tourism industry under external shocks. Plataran maintained operational stability during the pandemic by relying on its long-established management system, team development mechanism, and continuous investment in cultural, natural, and community values. During the crisis, Plataran not only focused on its own business, but also provided education and tutoring programs for communities and children. This approach has made Plataran an important platform connecting communities, SMEs, and the local economy.
+
+Through this exchange, PT Metro Timur Indonusa further understood that whether in tourism, services, startups, or growth-stage enterprises, long-term and steady development is inseparable from understanding the local market, respecting the ecosystem chain, and continuously paying attention to social value. SMEs play an important role in this process. They are not only part of the supply chain and service system, but can also provide solid support for brands and industrial ecosystems through flexible operating methods, community participation, and cultural understanding.
+
+Yozua Makes emphasized that the long-term development of an enterprise requires maintaining a balance among culture, society, and the economy. Loving Indonesia and integrating this value into corporate operations is the core factor behind the continued growth of Plataran. For more enterprises developing in the Southeast Asian market, true competitiveness comes not only from scale expansion, but also from whether they can establish stable connections among local culture, community relationships, and business models.
+
+This exchange also provided important inspiration for PT Metro Timur Indonusa: in a complex market environment, long-term and steady development can be achieved by establishing complementary ecosystems and supporting SMEs and entrepreneurs. In the future, PT Metro Timur Indonusa will continue to focus on Southeast Asian entrepreneurial ecosystem, social impact, and sustainable growth, and will draw experience from the practices of local brands, community collaboration, and industrial complementarity, accompanying more entrepreneurs in creating long-term value in real markets.
+
+## About PT Metro Timur Indonusa
+
+PT Metro Timur Indonusa focuses on Southeast Asian entrepreneurial ecosystem, industrial collaboration, and long-term value construction, continuously observing entrepreneurs, SMEs, local brands, and sustainable growth opportunities in Indonesia and regional markets. The company values local market understanding, long-term partnerships, and ecosystem collaboration, and believes that the steady development of enterprises needs to be built on the foundation of business resilience, community relationships, and social value.
+
+In terms of corporate culture, PT Metro Timur Indonusa emphasizes long-termism, pragmatism, open collaboration, and social responsibility. Through exchanges with entrepreneurs and industry partners from different fields, PT Metro Timur Indonusa hopes to continuously understand the real needs of the Southeast Asian market and jointly explore sustainable development paths with more enterprises that have growth potential and social value.
