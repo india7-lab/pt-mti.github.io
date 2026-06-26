@@ -158,4 +158,4 @@ Click To Read: [The Three Pillars of Building an Enduring Company](https://ptmet
 Click To Read: [How to Promote Your Company in the Media](https://ptmetrotimur.com/xdetail/essay1)
 
 
-Follow MetroTimur-X Academy for more Southeast Asian macro insights and investment research analysis. Company founders or investors may connect through the official website at https://ptmetrotimur.com/
+Follow MetroTimur-X Academy for more Southeast Asian macro insights and investment research analysis. Company founders or investors may connect through the official website at [https://ptmetrotimur.com/](https://ptmetrotimur.com/)
