@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa: An Emerging Force in Southeast Asian Venture Investment Ecosystem "
 date: 2026-07-22
+redirect_from:
+  - /2026/07/22/pt-metro-timur-indonusa-an-emerging-force-in-southeast-asian-venture-investment-ecosystem.html
 ---
 
 
