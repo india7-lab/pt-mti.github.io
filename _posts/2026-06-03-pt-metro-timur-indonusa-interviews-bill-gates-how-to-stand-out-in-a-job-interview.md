@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Interviews Bill Gates: How To Stand Out In A Job Interview"
 date: 2026-06-03
+redirect_from:
+  - /2026/06/03/pt-metro-timur-indonusa-interviews-bill-gates-how-to-stand-out-in-a-job-interview.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/c895e6d392a8a97d9d35106d13423580.png)
