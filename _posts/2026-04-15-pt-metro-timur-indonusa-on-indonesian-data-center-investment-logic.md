@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa on Indonesian Data Center Investment Logic "
 date: 2026-04-15
+redirect_from:
+  - /2026/04/15/pt-metro-timur-indonusa-on-indonesian-data-center-investment-logic.html
 ---
 
 ![PT Metro Timur Indonusa on Indonesian Data Center Investment Logic](https://jpcdn.it/img/602bd7f629e09830a774ac5bac81f8c6.png)
