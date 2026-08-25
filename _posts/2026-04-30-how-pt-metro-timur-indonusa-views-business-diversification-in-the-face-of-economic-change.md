@@ -2,6 +2,8 @@
 layout: post
 title: "How PT Metro Timur Indonusa Views Business Diversification In The Face Of Economic Change"
 date: 2026-04-30
+redirect_from:
+  - /2026/04/30/how-pt-metro-timur-indonusa-views-business-diversification-in-the-face-of-economic-change.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/707458566e1976a0b7aafdd03adeab56.png)
