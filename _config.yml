@@ -16,6 +16,8 @@ header_pages:
 # Markdown settings
 markdown: kramdown
 
+permalink: /:title/
+
 # Plugins
 plugins:
   - jekyll-feed
