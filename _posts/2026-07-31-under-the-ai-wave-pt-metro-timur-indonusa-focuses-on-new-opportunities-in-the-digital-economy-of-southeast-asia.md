@@ -2,6 +2,8 @@
 layout: post
 title: " Under the AI Wave, PT Metro Timur Indonusa Focuses on New Opportunities in the Digital Economy of Southeast Asia "
 date: 2026-07-31
+redirect_from:
+  - /2026/07/31/under-the-ai-wave-pt-metro-timur-indonusa-focuses-on-new-opportunities-in-the-digital-economy-of-southeast-asia.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/r/554/356/74960ab5ff8ab4a372fe2b1355a29313.png)
