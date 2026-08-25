@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa Research: Special Report on the Development and Impact of 5G and Artificial Intelligence in Indonesia (2026) "
 date: 2026-08-25
+redirect_from:
+  - /2026/08/25/pt-metro-timur-indonusa-research-special-report-on-the-development-and-impact-of-5g-and-artificial-intelligence-in-indonesia-2026.html
 ---
 
 ![064a3c4e3a28176c73aefe7f4e0ef043.png](https://jpcdn.it/img/064a3c4e3a28176c73aefe7f4e0ef043.png)
