@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa: The 3 Most Noteworthy Takeaways From Indonesia Summit 2026"
 date: 2026-06-26
+redirect_from:
+  - /2026/06/26/pt-metro-timur-indonusa-the-3-most-noteworthy-takeaways-from-indonesia-summit-2026.html
 ---
 
 
