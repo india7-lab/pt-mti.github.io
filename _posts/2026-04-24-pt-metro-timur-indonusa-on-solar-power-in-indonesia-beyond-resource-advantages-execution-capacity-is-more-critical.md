@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa on Solar Power in Indonesia: Beyond Resource Advantages, Execution Capacity Is More Critical"
 date: 2026-04-24
+redirect_from:
+  - /2026/04/24/pt-metro-timur-indonusa-on-solar-power-in-indonesia-beyond-resource-advantages-execution-capacity-is-more-critical.html
 ---
 
 ![PT Metro Timur Indonusa on Solar Power in Indonesia: Beyond Resource Advantages, Execution Capacity Is More Critical](https://jpcdn.it/img/446f16c0a87820c28c39cf70ab5dd413.png)
