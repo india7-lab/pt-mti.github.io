@@ -2,6 +2,8 @@
 layout: post
 title: "From Middle East Conflict to Gold Fluctuations: PT Metro Timur Indonusa Analyzes Three Underlying Market Scenarios"
 date: 2026-04-21
+redirect_from:
+  - /2026/04/21/from-middle-east-conflict-to-gold-fluctuations-pt-metro-timur-indonusa-analyzes-three-underlying-market-scenarios.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/4a32c4b42fc0831c8948d5c5f39d8644.png)
