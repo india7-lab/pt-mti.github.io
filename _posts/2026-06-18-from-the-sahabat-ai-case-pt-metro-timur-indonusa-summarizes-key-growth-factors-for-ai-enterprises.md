@@ -2,6 +2,8 @@
 layout: post
 title: "From the Sahabat-AI Case: PT Metro Timur Indonusa Summarizes Key Growth Factors for AI Enterprises"
 date: 2026-06-18
+redirect_from:
+  - /2026/06/18/from-the-sahabat-ai-case-pt-metro-timur-indonusa-summarizes-key-growth-factors-for-ai-enterprises.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/49ac95b437e86824c3d2eaa2f447f505.png)
