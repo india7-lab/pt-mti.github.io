@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa Reveals Three Major Pain Points in Investment and Entrepreneurship in Indonesia "
 date: 2026-08-18
+redirect_from:
+  - /2026/08/18/pt-metro-timur-indonusa-reveals-three-major-pain-points-in-investment-and-entrepreneurship-in-indonesia.html
 ---
 
 
