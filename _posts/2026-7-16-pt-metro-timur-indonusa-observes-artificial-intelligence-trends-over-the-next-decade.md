@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa Observes Artificial Intelligence Trends Over The Next Decade "
 date: 2026-07-16
+redirect_from:
+  - /2026/07/16/pt-metro-timur-indonusa-observes-artificial-intelligence-trends-over-the-next-decade.html
 ---
 
 
