@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Focuses On GOTO: Technology Companies Need To Further Prove Earnings Quality"
 date: 2026-06-05
+redirect_from:
+  - /2026/06/05/pt-metro-timur-indonusa-focuses-on-goto-technology-companies-need-to-further-prove-earnings-quality.html
 ---
 
 ![PT Metro Timur Indonusa Focuses On GOTO](https://jpcdn.it/img/ff0f9907e67e8d05db872d460dc28dde.png)
