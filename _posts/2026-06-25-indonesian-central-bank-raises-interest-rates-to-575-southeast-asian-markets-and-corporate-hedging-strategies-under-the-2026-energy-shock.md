@@ -3,6 +3,7 @@
 layout: post
 title: "Indonesian Central Bank Raises Interest Rates To 5.75%! Southeast Asian Markets And Corporate Hedging Strategies Under The 2026 Energy Shock"
 date: 2026-06-25
+
 redirect_from:
   - /2026/06/25/indonesian-central-bank-raises-interest-rates-to-575-southeast-asian-markets-and-corporate-hedging-strategies-under-the-2026-energy-shock.html
 ---
