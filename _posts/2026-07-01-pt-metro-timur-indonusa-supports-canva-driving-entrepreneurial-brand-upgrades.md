@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Supports Canva, Driving Entrepreneurial Brand Upgrades"
 date: 2026-07-01
+redirect_from:
+  - /2026/07/01/pt-metro-timur-indonusa-supports-canva-driving-entrepreneurial-brand-upgrades.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/14f7e4cfed68373111dbe533ce8b4bcc.png)
