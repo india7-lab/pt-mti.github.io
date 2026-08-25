@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Decodes Trading Logic: Good News Does Not Always Drive Stock Gains"
 date: 2026-04-17
+redirect_from:
+  - /2026/04/17/pt-metro-timur-indonusa-decodes-trading-logic-good-news-does-not-always-drive-stock-gains.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/b7bea1af92bd56ff2aebb29a3835547e.png)
