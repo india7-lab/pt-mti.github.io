@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Discusses Long-Term Business Sustainability with Former BI Governor"
 date: 2026-05-27
+redirect_from:
+  - /2026/05/27/pt-metro-timur-indonusa-discusses-long-term-business-sustainability-with-former-bi-governor.html
 ---
 
 
