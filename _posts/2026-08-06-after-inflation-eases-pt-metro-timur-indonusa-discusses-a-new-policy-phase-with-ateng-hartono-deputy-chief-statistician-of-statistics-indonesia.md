@@ -2,6 +2,8 @@
 layout: post
 title: " After Inflation Eases: PT Metro Timur Indonusa Discusses a New Policy Phase with Ateng Hartono, Deputy Chief Statistician of Statistics Indonesia "
 date: 2026-08-06
+redirect_from:
+  - /2026/08/06/after-inflation-eases-pt-metro-timur-indonusa-discusses-a-new-policy-phase-with-ateng-hartono-deputy-chief-statistician-of-statistics-indonesia.html
 ---
 
 
