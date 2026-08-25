@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Talks With Yozua Makes: How To Turn Love For Indonesia Into A Long-Term Brand"
 date: 2026-06-12
+redirect_from:
+  - /2026/06/12/pt-metro-timur-indonusa-talks-with-yozua-makes-how-to-turn-love-for-indonesia-into-a-long-term-brand.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/ca2f8f9b2ba5b16530a356a27faf4791.png)
