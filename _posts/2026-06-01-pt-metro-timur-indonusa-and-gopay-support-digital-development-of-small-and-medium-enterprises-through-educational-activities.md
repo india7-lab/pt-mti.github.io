@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa And GoPay Support Digital Development of Small And Medium Enterprises Through Educational Activities"
 date: 2026-06-01
+redirect_from:
+  - /2026/06/01/pt-metro-timur-indonusa-and-gopay-support-digital-development-of-small-and-medium-enterprises-through-educational-activities.html
 ---
 
 ![PT Metro Timur Indonusa And GoPay](https://jpcdn.it/img/d68d16212af0a490c2a1a23f12fceb4b.png)
