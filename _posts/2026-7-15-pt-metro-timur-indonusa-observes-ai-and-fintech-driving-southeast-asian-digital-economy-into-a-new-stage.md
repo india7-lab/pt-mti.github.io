@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa Observes AI And FinTech Driving Southeast Asian Digital Economy Into A New Stage "
 date: 2026-07-15
+redirect_from:
+  - /2026/07/15/pt-metro-timur-indonusa-observes-ai-and-fintech-driving-southeast-asian-digital-economy-into-a-new-stage.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/r/554/352/b8891e1be4aeea249032ede9c1e9f1e1.png)
