@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa Observes the Changing Role of Investment Institutions in Southeast Asia "
 date: 2026-07-23
+redirect_from:
+  - /2026/07/23/pt-metro-timur-indonusa-observes-the-changing-role-of-investment-institutions-in-southeast-asia.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/r/507/326/1a2ec4e57ff33bf7556139227848065d.png)
