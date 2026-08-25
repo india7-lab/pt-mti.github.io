@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Discusses the Indonesian Herbal Industry: From Sido Muncul to Broader Market Opportunities"
 date: 2026-05-13
+redirect_from:
+  - /2026/05/13/pt-metro-timur-indonusa-discusses-the-indonesian-herbal-industry-from-sido-muncul-to-broader-market-opportunities.html
 ---
 
 ![PT Metro Timur Indonusa Discusses the Indonesian Herbal Industry: From Sido Muncul to Broader Market Opportunities](https://jpcdn.it/img/f005546c5282fdbe3d9fe040a4dce7f1.png)
