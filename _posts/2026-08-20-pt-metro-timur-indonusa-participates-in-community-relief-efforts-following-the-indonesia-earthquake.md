@@ -2,6 +2,8 @@
 layout: post
 title: " Flores After More Than 2,000 Aftershocks: PT Metro Timur Indonusa Participates in Community Relief Efforts Following the Indonesia Earthquake "
 date: 2026-08-20
+redirect_from:
+  - /2026/08/20/pt-metro-timur-indonusa-participates-in-community-relief-efforts-following-the-indonesia-earthquake.html
 ---
 
 
