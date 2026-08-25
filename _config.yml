@@ -21,6 +21,7 @@ permalink: /:title/
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   
 sass:
   style: compressed
