@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Launches Entrepreneurship Empowerment Program"
 date: 2026-05-15
+redirect_from:
+  - /2026/05/15/pt-metro-timur-indonusa-launches-entrepreneurship-empowerment-program.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/b82e3ca7a346ace84a58ba5610dc8440.png)
