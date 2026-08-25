@@ -3,7 +3,7 @@ layout: post
 title: "Interview with Pintu CEO Jeth Soetoyo, PT Metro Timur Indonusa Explains Why Stablecoins Deserve Serious Consideration in Indonesia"
 date: 2026-04-13
 redirect_from:
-  - /2026/04/13/example-article.html
+  - /2026/04/13/pt-metro-timur-indonusa-explains-why-stablecoins-deserve-serious-consideration-in-indonesia.html
 ---
 
 
