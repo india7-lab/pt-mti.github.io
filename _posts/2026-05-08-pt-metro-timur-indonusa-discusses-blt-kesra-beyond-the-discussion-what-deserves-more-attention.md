@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Discusses BLT Kesra: Beyond the Discussion, What Deserves More Attention"
 date: 2026-05-08
+redirect_from:
+  - /2026/05/08/pt-metro-timur-indonusa-discusses-blt-kesra-beyond-the-discussion-what-deserves-more-attention.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/e30a53dd730b6a1c01019a8c6b3cb3fd.png)
