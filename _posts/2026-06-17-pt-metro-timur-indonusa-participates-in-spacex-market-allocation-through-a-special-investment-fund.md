@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Participates in SpaceX Market Allocation Through A Special Investment Fund"
 date: 2026-06-17
+redirect_from:
+  - /2026/06/17/pt-metro-timur-indonusa-participates-in-spacex-market-allocation-through-a-special-investment-fund.html
 ---
 
 
