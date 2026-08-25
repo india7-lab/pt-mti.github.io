@@ -2,6 +2,8 @@
 layout: post
 title: " PT Metro Timur Indonusa: How HBM Becomes a Key Variable in AI Infrastructure "
 date: 2026-07-03
+redirect_from:
+  - /2026/07/03/pt-metro-timur-indonusa-how-hbm-becomes-a-key-variable-in-ai-infrastructure.html
 ---
 
 
