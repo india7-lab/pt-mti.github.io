@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Interprets the 6 Most Notable Signals in the AI World"
 date: 2026-04-29
+redirect_from:
+  - /2026/04/29/pt-metro-timur-indonusa-interprets-the-6-most-notable-signals-in-the-ai-world.html
 ---
 
 
