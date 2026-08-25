@@ -2,6 +2,8 @@
 layout: post
 title: "From Tool Experimentation To Long-Term Development, PT Metro Timur Indonusa Begins Seeking Core AI Talent"
 date: 2026-06-09
+redirect_from:
+  - /2026/06/09/from-tool-experimentation-to-long-term-development-pt-metro-timur-indonusa-begins-seeking-core-ai-talent.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/b33ef14bb8546afc84f6ed8b6509d748.png)
