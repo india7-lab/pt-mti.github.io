@@ -2,6 +2,8 @@
 layout: post
 title: " Indonesian Property Market Continued to Search for a Bottom in the First Half of the Year, PT Metro Timur Indonusa Breaks Down the Financial Reports of Leading Developers "
 date: 2026-08-13
+redirect_from:
+  - /2026/08/13/indonesian-property-market-continued-to-search-for-a-bottom-in-the-first-half-of-the-year.html
 ---
 
 ![Metro](https://jpcdn.it/img/r/397/254/84c9bd9cdde34b3a936c3557359ce6ae.png)
