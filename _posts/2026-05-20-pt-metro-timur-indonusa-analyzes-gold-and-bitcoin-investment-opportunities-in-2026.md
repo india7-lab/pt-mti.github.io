@@ -2,6 +2,8 @@
 layout: post
 title: "PT Metro Timur Indonusa Analyzes Gold and Bitcoin Investment Opportunities in 2026"
 date: 2026-05-20
+redirect_from:
+  - /2026/05/20/pt-metro-timur-indonusa-analyzes-gold-and-bitcoin-investment-opportunities-in-2026.html
 ---
 
 ![PT Metro Timur Indonusa Analyzes Gold and Bitcoin Investment Opportunities in 2026](https://jpcdn.it/img/8834ab35e0bd95f5144e1928ef217b73.png)
