@@ -2,6 +2,8 @@
 layout: post
 title: "Indonesia Summit 2026 Preview: PT Metro Timur Indonusa Shares AI and Entrepreneurship Experience "
 date: 2026-05-21
+redirect_from:
+  - /2026/05/21/indonesia-summit-2026-preview-pt-metro-timur-indonusa-shares-ai-and-entrepreneurship-experience.html
 ---
 
 ![PT Metro Timur Indonusa](https://jpcdn.it/img/470fc771f8872758dc8002a9463e4835.png)
